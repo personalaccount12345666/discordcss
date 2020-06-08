@@ -2038,6 +2038,8 @@ polyline[stroke*="#7289da"] {
     width: 35px;
     left: 5px;
     top: 50px;
+    background:transparent !important;
+
 }
 
 .unreadMentionsBar-1VrBNe:before {
@@ -2047,6 +2049,8 @@ polyline[stroke*="#7289da"] {
     left: 0;
     right: 0;
     bottom: 0;
+    	background:transparent !important;
+
 }
 
 .chatContent-a9vAAp>form>div>div>div>.attachWrapper-2TRKBi>button>div:before {
