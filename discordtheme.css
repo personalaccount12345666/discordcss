@@ -2034,11 +2034,12 @@ polyline[stroke*="#7289da"] {
 
 .unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {
     padding: 0;
-    height: 25px;
-    width: 35px;
-    left: 5px;
-    top: 50px;
+    height: 0px;
+    width: 0px;
+    left: 0px;
+    top: 0px;
     background:transparent !important;
+    display:none;
 
 }
 
@@ -2050,6 +2051,7 @@ polyline[stroke*="#7289da"] {
     right: 0;
     bottom: 0;
     	background:transparent !important;
+    display:none;
 
 }
 
