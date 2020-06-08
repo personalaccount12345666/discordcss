@@ -380,22 +380,6 @@ a.metadataName-14STf-, .users-i_3-kL, .embedTitle-3OXDkz, .itemBase-1Qj4z6:hover
     bottom: 0;
 }
 
-.channelTextArea-rNsIhG, .scrollableContainer-2NUZem {
-    margin: 0;
-    min-height: 50px;
-    border-radius: 0;
-}
-
-.scrollableContainer-2NUZem {
-    background: transparent!important;
-    border-radius: .5em .5em 0 0;
-}
-
-.scrollableContainer-2NUZem .textArea-12jD-V {
-    background: var(--SendMessage)!important;
-    border-radius: .35em;
-}
-
 .scrollerThemed-2oenus.themedWithTrack-q8E3vB .scroller-2FKFPG::-webkit-scrollbar-thumb {
     left: 0;
     border-radius: .35em!important;
