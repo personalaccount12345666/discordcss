@@ -3,8 +3,8 @@
     --logo: url(https://cdn.discordapp.com/attachments/476154188494143498/675832706386362398/ALPHA4.gif);
     --background: url(https://cdn.discordapp.com/attachments/476154188494143498/680898001346363415/appear.jpg);
     --font: 'Quicksand';
-    --Primary: rgb(130, 0, 216);
-    --animation: var(--Primary), rgb(0, 225, 255);
+    --Primary: rgb(255,128,64);
+    --animation: var(--Primary), rgb(255,170,130);
     --Online: rgb(0, 255, 136);
     --Idle: rgb(0, 99, 156);
     --Unavailable: rgb(228, 15, 0);
