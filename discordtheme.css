@@ -53,7 +53,7 @@
     --text-normal: white;
     --text-muted: rgba(255, 255, 255, .5);
     --text-link: var(--Primary);
-    --channels-default: white;
+    --channels-default: rgba(172,172,172,.6) !important;
     --interactive-normal: white;
     --interactive-hover: white;
     --interactive-active: white;
@@ -1691,12 +1691,12 @@ div.userSettingsAccount-2eMFVR>div>.userInfoViewing-16kqK3>div>div:nth-child(2)>
 }
 
 .modeUnread-1zpFdA .name-3_Dsmg {
-    color: rgba(172,172,172,.6) !important;
+    color: var(--interactive-active);
 }
 
 .modeUnread-1zpFdA .name-3_Dsmg:before {
     /*content: var(--Unread)!important;*/
-    color: rgba(172,172,172,.6) !important;
+    color: var(--interactive-active);
     font-size: 16px;
     border-radius: .25em;
     margin-right: 5px;
